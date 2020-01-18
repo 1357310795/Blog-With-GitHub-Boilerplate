@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 返校考安排
-slug: my-first-awesome-post
+title: 数学学考模拟卷下载
+slug: math-test
 date: 2020-1-18
 status: publish
 author: SZY
@@ -24,3 +24,4 @@ excerpt: Hello World!
 ![](./Qrcode1.png)
 
 三天后（2020-01-18 18:50）过期。
+
