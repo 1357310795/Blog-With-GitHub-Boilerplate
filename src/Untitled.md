@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数学学考模拟卷下载
-slug: math-test
+slug: math-homework
 date: 2020-1-18
 status: publish
 author: SZY
