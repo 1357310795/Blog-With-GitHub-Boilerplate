@@ -19,9 +19,9 @@ excerpt: Hello World!
 
 访问链接或扫描二维码下载
 
-[]: https://wss3.cn/f/1li8lwym9aj
+https://wss3.cn/f/1li8lwym9aj
 
-![](./Qrcode1.png)
+![](./images/Qrcode1.png)
 
 三天后（2020-01-18 18:50）过期。
 
