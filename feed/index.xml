@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SZY的个人博客</title><link>/Blog-With-GitHub-Boilerplate/</link><description>寒假作业发布博客</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/Blog-With-GitHub-Boilerplate/logo.png</url><title>SZY的个人博客</title><link>/Blog-With-GitHub-Boilerplate/</link></image><language>zh-CN</language><lastBuildDate>Wed, 29 Jan 2020 10:07:04 +0806</lastBuildDate><pubDate>Wed, 29 Jan 2020 10:07:04 +0806</pubDate><item><title>Hello World!</title><link>/Blog-With-GitHub-Boilerplate/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SZY的个人博客</title><link>/Blog-With-GitHub-Boilerplate/</link><description>寒假作业发布博客</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/Blog-With-GitHub-Boilerplate/logo.png</url><title>SZY的个人博客</title><link>/Blog-With-GitHub-Boilerplate/</link></image><language>zh-CN</language><lastBuildDate>Wed, 29 Jan 2020 10:13:47 +0806</lastBuildDate><pubDate>Wed, 29 Jan 2020 10:13:47 +0806</pubDate><item><title>Hello World!</title><link>/Blog-With-GitHub-Boilerplate/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -262,23 +262,23 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3&gt;患者最常见的问题&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;人感染新型冠状病毒后会有什么症状？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;人感染新型冠状病毒后的症状严重程度取决于病毒的类型以及人体的免疫水平，常见的有发热、咳嗽、呼吸急促或呼吸困难，更严重时会导致急性呼吸窘迫综合征、脓毒性休克等，可导致患者死亡。&lt;/p&gt;
+&lt;p&gt;问：人感染新型冠状病毒后会有什么症状？
+答：人感染新型冠状病毒后的症状严重程度取决于病毒的类型以及人体的免疫水平，常见的有发热、咳嗽、呼吸急促或呼吸困难，更严重时会导致急性呼吸窘迫综合征、脓毒性休克等，可导致患者死亡。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;新型冠状病毒可以在人与人之间传播吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;是的，新型冠状病毒是可以在人与人之间传播的，传播通常发生在在家庭、工作场所、人群密集区域或医院等。&lt;/p&gt;
+&lt;p&gt;问：新型冠状病毒可以在人与人之间传播吗？
+答：是的，新型冠状病毒是可以在人与人之间传播的，传播通常发生在在家庭、工作场所、人群密集区域或医院等。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  目前有针对新型冠状病毒的疫苗吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  没有，新发疾病可能需要很多年时间才能研发出接种的疫苗。&lt;/p&gt;
+&lt;p&gt;问：  目前有针对新型冠状病毒的疫苗吗？
+答：  没有，新发疾病可能需要很多年时间才能研发出接种的疫苗。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  有针对新型冠状病毒的治疗方法吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  对于由新型冠状病毒感染引起的疾病，目前没有特效的治疗方法，临床治疗以对症支持治疗为主。&lt;/p&gt;
+&lt;p&gt;问：  有针对新型冠状病毒的治疗方法吗？
+答：  对于由新型冠状病毒感染引起的疾病，目前没有特效的治疗方法，临床治疗以对症支持治疗为主。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  医护人员会受到新型冠状病毒的威胁吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  是的。医护人员需要与患者密切接触，更容易受到新型冠状病毒的感染威胁。因此，世界卫生组织（WHO）建议医护人员加强自身的感染预防和控制措施。严格执行标准预防原则，做好个人防护、手卫生，最大可能避免医院感染。&lt;/p&gt;
+&lt;p&gt;问：  医护人员会受到新型冠状病毒的威胁吗？
+答：  是的。医护人员需要与患者密切接触，更容易受到新型冠状病毒的感染威胁。因此，世界卫生组织（WHO）建议医护人员加强自身的感染预防和控制措施。严格执行标准预防原则，做好个人防护、手卫生，最大可能避免医院感染。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  我该怎么做才能保护自己？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  由于该病目前尚无有效治疗方法，预防与隔离是最有效途径，尽量减少与感染或潜在感染患者接触的机会。首先要避免前往人群密集场所，在公共场所要戴口罩。其次要注意手卫生和饮食卫生，勤洗手、多饮水、避免疲劳、保证睡眠，家庭和工作环境保持多通风。如果出现发热、咳嗽症状，要注意咳嗽礼仪，要及时就医，前往医院途中，戴口罩。&lt;/p&gt;
+&lt;p&gt;问：  我该怎么做才能保护自己？
+答：  由于该病目前尚无有效治疗方法，预防与隔离是最有效途径，尽量减少与感染或潜在感染患者接触的机会。首先要避免前往人群密集场所，在公共场所要戴口罩。其次要注意手卫生和饮食卫生，勤洗手、多饮水、避免疲劳、保证睡眠，家庭和工作环境保持多通风。如果出现发热、咳嗽症状，要注意咳嗽礼仪，要及时就医，前往医院途中，戴口罩。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;病因&lt;/h2&gt;
 &lt;ul&gt;
@@ -324,7 +324,7 @@
 &lt;hr&gt;
 &lt;h2&gt;诊断标准&lt;/h2&gt;
 &lt;p&gt;根据国家卫健委发布的《新型冠状病毒感染的肺炎诊疗方案（试行第四版）》：&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;疑似病例（原观察病例）&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;疑似病例（原观察病例）&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;结合下述流行病学史和临床表现综合分析，有流行病学史中的任何一条，负荷临床表现中的任意2条。&lt;/p&gt;
 &lt;h4&gt;流行病学史&lt;/h4&gt;
@@ -337,7 +337,7 @@
 &lt;li&gt;具有上述肺炎影像学特征；&lt;/li&gt;
 &lt;li&gt;发病早期白细胞总数正常或降低，或淋巴细胞计数减少。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;&lt;p&gt;确诊病例&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;确诊病例&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;疑似病例，具备以下病原学证据之一者：&lt;/p&gt;
 &lt;ul&gt;
@@ -361,10 +361,10 @@
 &lt;p&gt;发热门诊、感染科。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;相关检查&lt;/h2&gt;
-&lt;blockquote&gt;&lt;h3&gt;医生查体&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;医生查体&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;主要针对肺部进行相应检查，听诊呼吸音等。&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;实验室检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;实验室检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;血常规：早期白细胞总数正常或降低，淋巴细胞计数减少。&lt;/li&gt;
@@ -372,10 +372,10 @@
 &lt;li&gt;C反应蛋白（CRP）升高、降钙素原可正常。&lt;/li&gt;
 &lt;li&gt;凝血功能：D-二聚体可升高。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;&lt;h3&gt;影像学检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;影像学检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;早期呈现多发小斑片影及间质改变，以肺外带明显。进而发展为双肺多发磨玻璃影、浸润影，严重者可出现肺实变，胸腔积液少见。&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;特殊检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;特殊检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;病原体检测，采集咽拭子、痰液或下呼吸道分泌物标本，进行实时荧光RT-PCR，其结果为新型冠状病毒核酸检测阳性。或病原体基因测序提示与新型冠状病毒高度同源。&lt;/p&gt;
 &lt;hr&gt;
@@ -455,6 +455,6 @@
 &lt;h2&gt;图解&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="750" data-height="6150" src="https://imgsrc.baidu.com/baike/pic/item/0df3d7ca7bcb0a4661ab1f6c6463f6246a60afde.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;blockquote&gt;&lt;h3&gt;来源：&lt;a href="https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0"&gt;https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;来源：&lt;a href="https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0"&gt;https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description><author>1357310795@qq.com (SZY)</author><guid isPermaLink="true">/Blog-With-GitHub-Boilerplate/archives/2019-nCov/</guid><pubDate>Wed, 29 Jan 2020 00:00:00 +0806</pubDate></item></channel></rss>

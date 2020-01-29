@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>SZY的个人博客</title><updated>2020-01-29T10:07:04.765119+08:06</updated><author><name>SZY</name><email>1357310795@qq.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>/Blog-With-GitHub-Boilerplate/logo.png</logo><subtitle>寒假作业发布博客</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2020-01-29T10:07:04.765422+00:00</updated><author><name>AlanDecode</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>SZY的个人博客</title><updated>2020-01-29T10:13:47.039235+08:06</updated><author><name>SZY</name><email>1357310795@qq.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>/Blog-With-GitHub-Boilerplate/logo.png</logo><subtitle>寒假作业发布博客</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2020-01-29T10:13:47.039639+00:00</updated><author><name>AlanDecode</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -78,17 +78,17 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/Blog-With-GitHub-Boilerplate/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/guidance/</id><title>高中学习方法指导（语数英）</title><updated>2020-01-29T10:07:04.765394+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h3&gt;叶老师出镜！&lt;/h3&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/Blog-With-GitHub-Boilerplate/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/guidance/</id><title>高中学习方法指导（语数英）</title><updated>2020-01-29T10:13:47.039603+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h3&gt;叶老师出镜！&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://www.bilibili.com/video/av84114407/"&gt;前往bilibili观看&lt;/a&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/guidance/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</id><title>期末考试班级报表（高二）</title><updated>2020-01-29T10:07:04.765367+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;期末考试班级报表（高二）&lt;/h2&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/guidance/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</id><title>期末考试班级报表（高二）</title><updated>2020-01-29T10:13:47.039569+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;期末考试班级报表（高二）&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/1357310795/Blog-With-GitHub-Boilerplate/blob/source/src/files/%E5%B5%8A%E5%B7%9E%E4%B8%AD%E5%AD%A6%E7%8F%AD%E7%BA%A7%E6%8A%A5%E8%A1%A8%EF%BC%88%E9%AB%98%E4%BA%8C%EF%BC%89.zip?raw=true"&gt;点我下载&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="4961" data-height="3543" src="/Blog-With-GitHub-Boilerplate/archives/assets/aa64554878e0cc042814c99fec069699.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/score-sheet/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/math-homework/</id><title>数学学考模拟卷下载</title><updated>2020-01-29T10:07:04.765340+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;数学学考模拟卷下载&lt;/h2&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/score-sheet/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/math-homework/</id><title>数学学考模拟卷下载</title><updated>2020-01-29T10:13:47.039533+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;数学学考模拟卷下载&lt;/h2&gt;
 &lt;p&gt;访问链接或扫描二维码下载&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://c-t.work/s/c89808e6e5b940"&gt;https://c-t.work/s/c89808e6e5b940&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="337" data-height="279" src="/Blog-With-GitHub-Boilerplate/archives/assets/c4f9f9e6bcdfb7d6e505674f64cb9198.png" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;168小时后（2020-02-03 14:38）过期。&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/math-homework/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/back-test/</id><title>返校考安排</title><updated>2020-01-29T10:07:04.765312+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;嵊州中学2019学年寒假开学返校考考试范围&lt;/h2&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/math-homework/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/back-test/</id><title>返校考安排</title><updated>2020-01-29T10:13:47.039497+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h2&gt;嵊州中学2019学年寒假开学返校考考试范围&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th&gt;科目&lt;/th&gt;
@@ -155,7 +155,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="3508" data-height="2480" src="/Blog-With-GitHub-Boilerplate/archives/assets/d79e4060426ae9db6ec02e7998ee9f2b.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/back-test/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/homework/</id><title>寒假作业</title><updated>2020-01-29T10:07:04.765283+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;ul&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/back-test/" rel="alternate"/><published>2020-01-18T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/homework/</id><title>寒假作业</title><updated>2020-01-29T10:13:47.039460+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;语文&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;寒假作业本&lt;/li&gt;
@@ -232,9 +232,9 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="3000" data-height="2119" src="/Blog-With-GitHub-Boilerplate/archives/assets/4ff240a4a37a371bb507fc4b1d6a445a.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font color=red size=5 face="华文彩云"&gt;祝大家新春快乐，吉祥平安，鼠年幸福，健康顺心，心想事成，万事大吉！&lt;/font&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/homework/" rel="alternate"/><published>2020-01-19T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/eng-mp3/</id><title>期末考试英语听力下载</title><updated>2020-01-29T10:07:04.765249+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;p&gt;&lt;a href="https://github.com/1357310795/Blog-With-GitHub-Boilerplate/blob/source/src/files/绍兴市2019学年第一学期期末高二英语听力.mp3?raw=true"&gt;下载地址1（GitHub）&lt;/a&gt;&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/homework/" rel="alternate"/><published>2020-01-19T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/eng-mp3/</id><title>期末考试英语听力下载</title><updated>2020-01-29T10:13:47.039420+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;p&gt;&lt;a href="https://github.com/1357310795/Blog-With-GitHub-Boilerplate/blob/source/src/files/绍兴市2019学年第一学期期末高二英语听力.mp3?raw=true"&gt;下载地址1（GitHub）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://pan.baidu.com/s/1IFbyOBfWfCgEdQVG-eUjvA"&gt;下载地址2（百度网盘）&lt;/a&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/eng-mp3/" rel="alternate"/><published>2020-01-20T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/2019-nCov/</id><title>2019-nCov实时疫情图</title><updated>2020-01-29T10:07:04.765192+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h1&gt;疫情地图&lt;/h1&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/eng-mp3/" rel="alternate"/><published>2020-01-20T00:00:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/2019-nCov/</id><title>2019-nCov实时疫情图</title><updated>2020-01-29T10:13:47.039340+00:00</updated><author><name>SZY</name><email>1357310795@qq.com</email><uri>none</uri></author><content>&lt;h1&gt;疫情地图&lt;/h1&gt;
 &lt;p&gt;&lt;iframe src="https://www.lovestu.com/api/project/cnmapyinqing/obj.php" height="500" frameborder="no" border="0" width="100%"&gt; &lt;/iframe&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1&gt;2019-nCov相关知识&lt;/h1&gt;
@@ -262,23 +262,23 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3&gt;患者最常见的问题&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;人感染新型冠状病毒后会有什么症状？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;人感染新型冠状病毒后的症状严重程度取决于病毒的类型以及人体的免疫水平，常见的有发热、咳嗽、呼吸急促或呼吸困难，更严重时会导致急性呼吸窘迫综合征、脓毒性休克等，可导致患者死亡。&lt;/p&gt;
+&lt;p&gt;问：人感染新型冠状病毒后会有什么症状？
+答：人感染新型冠状病毒后的症状严重程度取决于病毒的类型以及人体的免疫水平，常见的有发热、咳嗽、呼吸急促或呼吸困难，更严重时会导致急性呼吸窘迫综合征、脓毒性休克等，可导致患者死亡。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;新型冠状病毒可以在人与人之间传播吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;是的，新型冠状病毒是可以在人与人之间传播的，传播通常发生在在家庭、工作场所、人群密集区域或医院等。&lt;/p&gt;
+&lt;p&gt;问：新型冠状病毒可以在人与人之间传播吗？
+答：是的，新型冠状病毒是可以在人与人之间传播的，传播通常发生在在家庭、工作场所、人群密集区域或医院等。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  目前有针对新型冠状病毒的疫苗吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  没有，新发疾病可能需要很多年时间才能研发出接种的疫苗。&lt;/p&gt;
+&lt;p&gt;问：  目前有针对新型冠状病毒的疫苗吗？
+答：  没有，新发疾病可能需要很多年时间才能研发出接种的疫苗。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  有针对新型冠状病毒的治疗方法吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  对于由新型冠状病毒感染引起的疾病，目前没有特效的治疗方法，临床治疗以对症支持治疗为主。&lt;/p&gt;
+&lt;p&gt;问：  有针对新型冠状病毒的治疗方法吗？
+答：  对于由新型冠状病毒感染引起的疾病，目前没有特效的治疗方法，临床治疗以对症支持治疗为主。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  医护人员会受到新型冠状病毒的威胁吗？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  是的。医护人员需要与患者密切接触，更容易受到新型冠状病毒的感染威胁。因此，世界卫生组织（WHO）建议医护人员加强自身的感染预防和控制措施。严格执行标准预防原则，做好个人防护、手卫生，最大可能避免医院感染。&lt;/p&gt;
+&lt;p&gt;问：  医护人员会受到新型冠状病毒的威胁吗？
+答：  是的。医护人员需要与患者密切接触，更容易受到新型冠状病毒的感染威胁。因此，世界卫生组织（WHO）建议医护人员加强自身的感染预防和控制措施。严格执行标准预防原则，做好个人防护、手卫生，最大可能避免医院感染。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/021e78909fc899565b8a1436713f2e16.png" alt="" /&gt;&lt;/figure&gt;  我该怎么做才能保护自己？
-&lt;figure&gt;&lt;img data-width="24" data-height="24" src="/Blog-With-GitHub-Boilerplate/archives/assets/3b0d8e7675d575795e6f0d28254aec90.png" alt="" /&gt;&lt;/figure&gt;  由于该病目前尚无有效治疗方法，预防与隔离是最有效途径，尽量减少与感染或潜在感染患者接触的机会。首先要避免前往人群密集场所，在公共场所要戴口罩。其次要注意手卫生和饮食卫生，勤洗手、多饮水、避免疲劳、保证睡眠，家庭和工作环境保持多通风。如果出现发热、咳嗽症状，要注意咳嗽礼仪，要及时就医，前往医院途中，戴口罩。&lt;/p&gt;
+&lt;p&gt;问：  我该怎么做才能保护自己？
+答：  由于该病目前尚无有效治疗方法，预防与隔离是最有效途径，尽量减少与感染或潜在感染患者接触的机会。首先要避免前往人群密集场所，在公共场所要戴口罩。其次要注意手卫生和饮食卫生，勤洗手、多饮水、避免疲劳、保证睡眠，家庭和工作环境保持多通风。如果出现发热、咳嗽症状，要注意咳嗽礼仪，要及时就医，前往医院途中，戴口罩。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;病因&lt;/h2&gt;
 &lt;ul&gt;
@@ -324,7 +324,7 @@
 &lt;hr&gt;
 &lt;h2&gt;诊断标准&lt;/h2&gt;
 &lt;p&gt;根据国家卫健委发布的《新型冠状病毒感染的肺炎诊疗方案（试行第四版）》：&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;疑似病例（原观察病例）&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;疑似病例（原观察病例）&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;结合下述流行病学史和临床表现综合分析，有流行病学史中的任何一条，负荷临床表现中的任意2条。&lt;/p&gt;
 &lt;h4&gt;流行病学史&lt;/h4&gt;
@@ -337,7 +337,7 @@
 &lt;li&gt;具有上述肺炎影像学特征；&lt;/li&gt;
 &lt;li&gt;发病早期白细胞总数正常或降低，或淋巴细胞计数减少。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;&lt;p&gt;确诊病例&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;确诊病例&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;疑似病例，具备以下病原学证据之一者：&lt;/p&gt;
 &lt;ul&gt;
@@ -361,10 +361,10 @@
 &lt;p&gt;发热门诊、感染科。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;相关检查&lt;/h2&gt;
-&lt;blockquote&gt;&lt;h3&gt;医生查体&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;医生查体&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;主要针对肺部进行相应检查，听诊呼吸音等。&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;实验室检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;实验室检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;血常规：早期白细胞总数正常或降低，淋巴细胞计数减少。&lt;/li&gt;
@@ -372,10 +372,10 @@
 &lt;li&gt;C反应蛋白（CRP）升高、降钙素原可正常。&lt;/li&gt;
 &lt;li&gt;凝血功能：D-二聚体可升高。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;&lt;h3&gt;影像学检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;影像学检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;早期呈现多发小斑片影及间质改变，以肺外带明显。进而发展为双肺多发磨玻璃影、浸润影，严重者可出现肺实变，胸腔积液少见。&lt;/p&gt;
-&lt;blockquote&gt;&lt;h3&gt;特殊检查&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;特殊检查&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;病原体检测，采集咽拭子、痰液或下呼吸道分泌物标本，进行实时荧光RT-PCR，其结果为新型冠状病毒核酸检测阳性。或病原体基因测序提示与新型冠状病毒高度同源。&lt;/p&gt;
 &lt;hr&gt;
@@ -455,6 +455,6 @@
 &lt;h2&gt;图解&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="750" data-height="6150" src="https://imgsrc.baidu.com/baike/pic/item/0df3d7ca7bcb0a4661ab1f6c6463f6246a60afde.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;blockquote&gt;&lt;h3&gt;来源：&lt;a href="https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0"&gt;https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;来源：&lt;a href="https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0"&gt;https://baike.baidu.com/medicine/disease/%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%9A%84%E8%82%BA%E7%82%8E/24282048?tab=%E6%A6%82%E8%BF%B0&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </content><link href="/Blog-With-GitHub-Boilerplate/archives/2019-nCov/" rel="alternate"/><published>2020-01-29T00:00:00+08:06</published></entry></feed>
