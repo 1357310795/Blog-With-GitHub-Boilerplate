@@ -15,13 +15,13 @@ tags:
 excerpt: Hello World!
 ---
 
-## 数学学考模拟卷下载
+## 
 
-|      | 2.4                              | 2.5  |
-| ---- | -------------------------------- | ---- |
-| 语   | 无                               |      |
-| 数   | [点我下载](.\files\2.4数学.pptx) |      |
-| 英   | 无                               |      |
-| 物   | 无                               |      |
-| 化   | [点我下载](.\files\2.4化学.pptx) |      |
+|      | 2.4                                                          | 2.5  |
+| ---- | ------------------------------------------------------------ | ---- |
+| 语   | 无                                                           |      |
+| 数   | [点我下载](https://github.com/1357310795/Blog-With-GitHub-Boilerplate/blob/source/src/files/2.4%E6%95%B0%E5%AD%A6.pptx?raw=true) |      |
+| 英   | 无                                                           |      |
+| 物   | 无                                                           |      |
+| 化   | [点我下载](https://github.com/1357310795/Blog-With-GitHub-Boilerplate/blob/source/src/files/2.4%E5%8C%96%E5%AD%A6.pptx?raw=true) |      |
 
