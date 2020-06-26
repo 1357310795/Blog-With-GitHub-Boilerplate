@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/化学/</loc>
+    <lastmod>2020-06-26</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/Blog-With-GitHub-Boilerplate/archives/w-test-tt/</loc>
     <lastmod>2020-02-13</lastmod>
     <changefreq>always</changefreq>
@@ -47,13 +54,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</loc>
-    <lastmod>2020-01-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
     <loc>/Blog-With-GitHub-Boilerplate/archives/back-test/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
@@ -61,14 +61,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/math-homework/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/math-homework/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</loc>
+    <lastmod>2020-01-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
