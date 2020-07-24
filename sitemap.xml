@@ -54,7 +54,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/back-test/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</loc>
+    <lastmod>2020-01-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -68,14 +75,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/score-sheet/</loc>
-    <lastmod>2020-01-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/back-test/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
