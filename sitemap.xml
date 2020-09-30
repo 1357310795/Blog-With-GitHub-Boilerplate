@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/国庆/</loc>
+    <lastmod>2020-10-01</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/Blog-With-GitHub-Boilerplate/archives/homework7-24/</loc>
     <lastmod>2020-07-24</lastmod>
     <changefreq>always</changefreq>
@@ -68,14 +75,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/math-homework/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/Blog-With-GitHub-Boilerplate/archives/math-homework/</loc>
+    <loc>/Blog-With-GitHub-Boilerplate/archives/guidance/</loc>
     <lastmod>2020-01-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
